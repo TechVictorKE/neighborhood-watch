@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/TechVictorKE/neighborhood-watch">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/anon.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Neighbourhood Watch</h3>
