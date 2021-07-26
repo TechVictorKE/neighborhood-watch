@@ -192,7 +192,7 @@ Project Link: [Github](https://github.com/TechVictorKE/)
 [issues-shield]: https://img.shields.io/github/issues/TechVictorKE/neighborhood-watch.svg?style=for-the-badge
 [issues-url]: https://github.com/TechVictorKE/neighborhood-watch/issues
 [license-shield]: https://img.shields.io/github/license/TechVictorKE/neighborhood-watch.svg?style=for-the-badge
-[license-url]: https://github.com/TechVictorKE/neighborhood-watch/blob/master/LICENSE.txt
+[license-url]: https://github.com/TechVictorKE/neighborhood-watch/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/victor-kibocha-b106b21bb/
 [product-screenshot]: https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/home2.png
