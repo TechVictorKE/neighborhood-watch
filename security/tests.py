@@ -5,40 +5,40 @@ import datetime as dt
 # Create your tests here.
 class neighbourhoodTestClass(TestCase):
     def setUp(self):
-        self.Kahawa = neighbourhood(neighbourhood='Kahawa')
+        self.Ruaka = neighbourhood(neighbourhood='Ruaka')
 
     def test_instance(self):
-        self.assertTrue(isinstance(self.Kahawa,neighbourhood))
+        self.assertTrue(isinstance(self.Ruaka,neighbourhood))
 
     def tearDown(self):
         neighbourhood.objects.all().delete()
 
     def test_save_method(self):
-        self.Kahawa.save_neighbourhood()
+        self.Ruaka.save_neighbourhood()
         hood = neighbourhood.objects.all()
         self.assertTrue(len(hood)>0)
 
     def test_delete_method(self):
-        self.Kahawa.delete_neighbourhood('Kahawa')
+        self.Ruaka.delete_neighbourhood('Ruaka')
         hood = neighbourhood.objects.all()
         self.assertTrue(len(hood)==0)
 
 class healthservicesTestClass(TestCase):
     def setUp(self):
-        self.Radiotherapy = healthservices(healthservices='Radiotherapy')
+        self.Psychology = healthservices(healthservices='Psychology')
 
     def test_instance(self):
-        self.assertTrue(isinstance(self.Radiotherapy,healthservices))
+        self.assertTrue(isinstance(self.Psychology,healthservices))
 
     def tearDown(self):
         healthservices.objects.all().delete()
 
     def test_save_method(self):
-        self.Radiotherapy.save_healthservices()
+        self.Psychology.save_healthservices()
         health = healthservices.objects.all()
         self.assertTrue(len(health)>0)
 
     def test_delete_method(self):
-        self.Radiotherapy.delete_healthservices('Radiotherapy')
+        self.Psychology.delete_healthservices('Psychology')
         health = healthservices.objects.all()
         self.assertTrue(len(health)==0)
