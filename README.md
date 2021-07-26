@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Hood Watch Screen Shot][product-screenshot]](https://example.com)
 
 If you are like me, you really don’t know what is happening in your neighborhood most of the time. What if an important meeting happens, theft or even death wouldn’t you like to know about it? This is a web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts!
 
@@ -120,17 +120,20 @@ Username: Kibocha
 
 This application can be used to keep track pf the events happening around your neighbourhood.
 
-Home:
-<img src="">
+Home(superuser):
+<img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/home1.png">
 
-Home:
-<img src="">
+Home(normal users):
+<img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/home2.png">
+
+Notifications:
+<img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/notifications.png">
 
 Profile:
-<img src="">
+<img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/profile.png">
 
-Single post:
-<img src="">
+Edit rofile:
+<img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/edit-profile.png">
 
 
 
@@ -192,4 +195,4 @@ Project Link: [Github](https://github.com/TechVictorKE/)
 [license-url]: https://github.com/TechVictorKE/neighborhood-watch/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/victor-kibocha-b106b21bb/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/home2.png
