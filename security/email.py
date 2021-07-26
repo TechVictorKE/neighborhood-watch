@@ -6,7 +6,7 @@ from .models import notifications,Profile
 def send_priority_email(name,receiver,title,message,author,neighbourhood):
     #Creating message subject and sender
     subject = title
-    sender = 'donatello54611@gmail.com'
+    sender = 'vicikibocha@gmail.com'
 
     #passing in the context variables
     text_content = render_to_string('email/priority.txt',{"name":name,"title":title,"message":message,"author":author,"neighbourhood":neighbourhood})
