@@ -132,7 +132,7 @@ Notifications:
 Profile:
 <img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/profile.png">
 
-Edit rofile:
+Edit Profile:
 <img src="https://github.com/TechVictorKE/neighborhood-watch/blob/master/security/static/img/screenshots/edit-profile.png">
 
 
