@@ -80,8 +80,8 @@ If you are like me, you really don’t know what is happening in your neighborho
 
 * Live site can be accessed from the following [link]()
 * Pre-configured Admin details are:
-Password: Kibocha
-Username: thejigisup
+Password: thejigisup <br>
+Username: Kibocha
 
 ### Prerequisites
 
