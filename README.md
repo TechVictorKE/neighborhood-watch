@@ -10,14 +10,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/TechVictorKE/neighborhood-watch">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Neighbourhood Watch</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    If you are like me, you really don’t know what is happening in your neighborhood most of the time. What if an important meeting happens, theft or even death wouldn’t you like to know about it? This is a web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts!
     <br />
     <a href="https://github.com/TechVictorKE/neighborhood-watch"><strong>Explore the docs »</strong></a>
     <br />
