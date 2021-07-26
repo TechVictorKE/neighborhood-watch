@@ -79,7 +79,7 @@ If you are like me, you really don’t know what is happening in your neighborho
 ## Getting Started
 
 * Live site can be accessed from the following [link]()
-* Pre-configured Admin details are:
+* Pre-configured Admin details are:<br>
 Password: thejigisup <br>
 Username: Kibocha
 
