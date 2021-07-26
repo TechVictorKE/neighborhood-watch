@@ -1,4 +1,4 @@
-"""area URL Configuration
+"""hoodwatch URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.11/topics/http/urls/
@@ -19,8 +19,8 @@ from django.contrib.auth import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'',include('hood.urls')),
+    url(r'',include('security.urls')),
     url(r'^accounts/',include('registration.backends.simple.urls')),
-    url(r'^logout/$',views.logout, {"next_page":'/'},name="logout"),
+    url(r'^logout/$',views.LogoutView, {"next_page":'/'},name="logout"),
     url(r'^tinymce',include('tinymce.urls')),
 ]
